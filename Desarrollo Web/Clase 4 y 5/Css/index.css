@@ -1,0 +1,20 @@
+
+body{
+    background-color: rgb(245, 197, 197);
+    font-family:fantasy;
+
+}
+h3{
+    color: rgb(61, 7, 7);
+    font-size: 25px;
+}
+
+.Practicando{
+    color: rgb(61, 7, 7);
+    border: 5px rgb(61, 7, 7) solid; 
+    text-align: center;
+    margin: 0 400px 0 400px;
+    border-radius: 100px;
+}
+
+
